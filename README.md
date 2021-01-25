@@ -1,3 +1,3 @@
-# goit-js-hw-03
+# js-tasks-03
 
 Объекты
